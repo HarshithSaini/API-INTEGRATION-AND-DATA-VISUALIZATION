@@ -6,7 +6,7 @@
 
 *INTERN ID*:CT06DM661
 
-*DOMAIN* :PYTHON
+*DOMAIN* :PYTHON 
 
 *DURATION*: 6 WEEKS
 
@@ -27,3 +27,8 @@ Together, these charts reflect the power of data visualization in weather analyt
 In essence, this project showcases how combining open-source APIs with Python libraries allows for the creation of dynamic, real-world applications. Users can easily change city names, interact with real-time data, and visualize important climate trends. It is a prime example of using data science to enhance practical awareness, making weather insights more accessible and actionable.
 
 
+# OUTPUT
+
+![Image](https://github.com/user-attachments/assets/2c9f2cda-f6c7-42d3-9745-78be51e46a2c)
+
+![Image](https://github.com/user-attachments/assets/0d81bace-696e-4bc8-bb5e-e2c7eac04a53)
